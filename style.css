@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+    #navbar {
+      padding: 0rem 1rem;
+    }
+  }
+  #about {
+    height: 100vh;
+  }
+  #navbar {
+    position: fixed;
+    width: 100vw;
+  }
